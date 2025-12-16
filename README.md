@@ -8,8 +8,8 @@
 
 Please review the following files:
 
-1. **Digital-Commerce-Platform-integration-approach.pdf** - Complete assignment solution
-2. **digital-commerce-platform-architecture.png** - Architecture diagram
+1. **[Digital-Commerce-Platform-integration-approach.pdf](./Digital-Commerce-Platform-integration-approach.pdf)** - Complete assignment solution (all 6 sections)
+2. **[digital-commerce-platform-architecture.png](./digital-commerce-platform-architecture.png)** - Architecture diagram
 
 ---
 
